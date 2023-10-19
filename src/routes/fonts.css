@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Mont';
+	src: url('../lib/fonts/MontRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+    font-family: 'Mont';
+    src: url('../lib/fonts/MontSemiBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Mont';
+    src: url('../lib/fonts/MontBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+}
